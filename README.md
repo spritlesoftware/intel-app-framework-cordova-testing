@@ -7,7 +7,7 @@ A simple app to test various features of Intel App frameworks with Cordova
  
 ##Windows Phone8:
  
-<img src="https://raw.githubusercontent.com/sivakumarbdu/intel-app-framework-cordova-testing/master/www/images/screen1.jpg" width="212px">      &nbsp;&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/sivakumarbdu/intel-app-framework-cordova-testing/master/www/images/screen1.jpg" width="212px">          &nbsp;&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/sivakumarbdu/intel-app-framework-cordova-testing/master/www/images/screen1.jpg" width="212px">  
+<img src="https://raw.githubusercontent.com/sivakumarbdu/intel-app-framework-cordova-testing/master/www/images/screen1.jpg" width="212px">      &nbsp;&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/sivakumarbdu/intel-app-framework-cordova-testing/master/www/images/screen2.jpg" width="212px">          &nbsp;&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/sivakumarbdu/intel-app-framework-cordova-testing/master/www/images/screen3.jpg" width="212px">  
 
 
 
