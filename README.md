@@ -15,11 +15,12 @@ A simple app to test various features of Intel App frameworks with Cordova
 
 
 
+## How to build:
 
-
-
-
-
+1. clone the repo
+2. Make sure you have installed cordova, See for more information about installation: http://cordova.apache.org/docs/en/3.5.0//guide_cli_index.md.html#The%20Command-Line%20Interface
+3. Add required platform by, cordova platform add android
+4. Build & run the app, cordova build android, cordova run android
 
 
 
